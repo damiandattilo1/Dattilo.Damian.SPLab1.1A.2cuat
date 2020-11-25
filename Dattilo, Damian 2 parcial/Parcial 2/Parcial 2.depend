@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1606263800 source:c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"paises.h"
+
+1606231407 c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\linkedlist.h
+
+1606258634 source:c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1606231513 c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\controller.h
+
+1606263989 source:c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+
+1606262112 c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\paises.h
+
+1606231621 c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\parser.h
+
+1606231544 source:c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+
+1606264051 source:c:\users\damia\documents\damian\programacion utn\parcial 2\parcial 2\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"paises.h"
+	"string.h"
+
+1606309381 source:c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"string.h"
+
+1606231407 c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\linkedlist.h
+
+1606309934 source:c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+	"string.h"
+
+1606309569 c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\bicicletas.h
+
+1606307318 c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\parser.h
+
+1606311038 source:c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"string.h"
+
+1606311506 source:c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"bicicletas.h"
+	"string.h"
+
+1606309934 c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\controller.h
+
+1606309967 source:c:\users\damia\documents\damian\dattilo, damian 2 parcial\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"bicicletas.h"
+
